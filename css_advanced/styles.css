@@ -1,0 +1,52 @@
+/* Make the background look nicer */
+body {
+    background: #f9f9f9;
+    color: #333;
+}
+
+/* Style header */
+header {
+    background: #222;
+    color: #fff;
+    padding: 15px;
+}
+
+/* Navigation list in header */
+header ul {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+header li {
+    margin-right: 20px;
+}
+
+/* Logo styling */
+.logo {
+    font-size: 1.8em;
+    font-weight: bold;
+    margin-right: 40px;
+    color: #ff4500;
+}
+
+/* Article area */
+article {
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+}
+
+/* Aside area */
+aside {
+    background: #fafafa;
+    border-left: 2px solid #eee;
+}
+
+/* Footer styling */
+footer {
+    background: #222;
+    color: #fff;
+    padding: 10px;
+}
